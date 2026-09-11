@@ -1,0 +1,13 @@
+{
+  "name": "shopbot-qa-home-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "QA home assignment: prompt regression testing of a mock support bot with promptfoo",
+  "scripts": {
+    "eval": "promptfoo eval",
+    "view": "promptfoo view"
+  },
+  "devDependencies": {
+    "promptfoo": "0.121.19"
+  }
+}
